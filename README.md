@@ -1,2 +1,2 @@
-# inkwell
-an electric-free blood-smearing device
+# Inkwell
+An electricity-free blood-smearing device
